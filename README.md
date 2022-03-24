@@ -1,4 +1,4 @@
-# ElectroPi
+# ElectriPi
 
 ## Project 1: button\_led.py
 
